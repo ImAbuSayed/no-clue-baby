@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/no-clue-baby/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for No Clue Baby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-clue-baby/) |
+| **Get License** | [Request Licensing for No Clue Baby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-clue-baby/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ni teri takni ch nasha ae blowing mind soniye
+> Main apna hosh bhull janda haan going blind soniye
+> Ni tere utte main marda haan leaving behind soniye
+> Main tere pichhe turda haan crossing line soniye
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
