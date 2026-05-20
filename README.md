@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/no-clue-baby/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for No Clue Baby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-clue-baby/) |
+| **Get License** | [License this song: No Clue Baby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-clue-baby/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6f5c6957b724d0394f38b81f2fdfa491fc3249b25cc9d3f7ba6a7b5003c68513` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
